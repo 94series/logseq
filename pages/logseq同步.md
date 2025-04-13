@@ -1,0 +1,9 @@
+- 成功用termux和widgit实现了安卓同步
+	- 安装git
+	- 安装vim编辑器
+	- 设置密钥
+	- 用https克隆仓库
+	- 授权termux读取文件
+	- 创建shortcuts，.sh
+	-
+	-
