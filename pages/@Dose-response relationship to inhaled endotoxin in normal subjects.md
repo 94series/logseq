@@ -21,5 +21,6 @@ links:: [Local library](zotero://select/library/items/ILETG62R), [Web library](h
 - [[Attachments]]
 	- [全文](zotero://select/library/items/TAMH7NTX) {{zotero-linked-file "研究生/我的/内毒素/Michel et al._1997_Dose-response relationship to inhaled endotoxin in normal subjects.pdf"}}
 	- [PubMed entry](http://www.ncbi.nlm.nih.gov/pubmed/9351616)
+	- {{renderer :mhtml, Dose-ResponseRelationshiptoInhaledEndotoxininNormalSubjects｜AmericanJournalofRespiratoryandCriticalCareMedicine2025_4_1323：12：46.html}}
 -
 -
