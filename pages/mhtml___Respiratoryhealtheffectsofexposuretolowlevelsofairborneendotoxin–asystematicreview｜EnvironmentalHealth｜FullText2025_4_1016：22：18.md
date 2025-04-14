@@ -25,3 +25,10 @@ file-name:: Respiratoryhealtheffectsofexposuretolowlevelsofairborneendotoxin–a
 	- 当至少 75%的研究在同一方向上显示出具有统计学意义的结果（根据 p < 0.05 定义）时，结果是一致的
 	- 只有那些研究内毒素暴露与结果变量之间暴露-反应关系的文章才被纳入最佳证据综合
 	  id:: 67fcaf97-de71-4fda-9b1f-ec11e51c272a
+- 筛选方式
+	- 暴露水平＜100 EU/m³
+	- 内毒素水平测量技术
+		- 灰尘采样
+			- personal sampling techniques
+			- area sampling
+			- predictive calculations
