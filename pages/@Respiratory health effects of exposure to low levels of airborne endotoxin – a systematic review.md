@@ -24,5 +24,6 @@ links:: [Local library](zotero://select/library/items/MNBCVICE), [Web library](h
 	- [Respiratory health effects of exposure to low levels of airborne endotoxin – a systematic review ｜ Environmental Health ｜ Full Text (2025_4_10 16：22：18)](zotero://select/library/items/Y6B68UM7) {{zotero-imported-file Y6B68UM7, "Respiratory health effects of exposure to low levels of airborne endotoxin – a systematic review ｜ Environmental Health ｜ Full Text (2025_4_10 16：22：18).html"}}
 	- [Snapshot](https://ehjournal.biomedcentral.com/articles/10.1186/s12940-018-0360-7) {{zotero-imported-file MFH75A8L, "s12940-018-0360-7.html"}}
 	- [Full Text PDF](https://ehjournal.biomedcentral.com/counter/pdf/10.1186/s12940-018-0360-7) {{zotero-imported-file SVLZSR6F, "_2018_Respiratory health effects of exposure to low levels of airborne endotoxin – a systematic review.pdf"}}
-	-
+	- {{renderer :mhtml, Respiratoryhealtheffectsofexposuretolowlevelsofairborneendotoxin–asystematicreview｜EnvironmentalHealth｜FullText2025_4_1016：22：18.html}}
 -
+	-
