@@ -299,8 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["文献库""Contents"]
- :favorites ["Contents"]
+ :favorites ["文献库" "Contents"]
 
  ;; Set flashcards interval.
  ;; Expected value:
