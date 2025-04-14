@@ -21,7 +21,7 @@ links:: [Local library](zotero://select/library/items/MNBCVICE), [Web library](h
 - [[Abstract]]
 	- Elevated endotoxin levels have been measured in ambient air around livestock farms, which is a cause of concern for neighbouring residents. There is clear evidence that occupational exposure to high concentrations of airborne endotoxin causes respiratory inflammation, respiratory symptoms and lung function decline. However, health effects of exposure to low levels of endotoxin are less well described. The aim of this systematic review is to summarize published associations between exposure to relatively low levels of airborne endotoxin and respiratory health endpoints.
 - [[Attachments]]
-	-
+	- [12940_2018_360_MOESM1_ESM.docx](../assets/12940_2018_360_MOESM1_ESM_1744626839972_0.docx)
 	- [Respiratory health effects of exposure to low levels of airborne endotoxin – a systematic review ｜ Environmental Health ｜ Full Text (2025_4_10 16：22：18)](zotero://select/library/items/Y6B68UM7) {{zotero-imported-file Y6B68UM7, "Respiratory health effects of exposure to low levels of airborne endotoxin – a systematic review ｜ Environmental Health ｜ Full Text (2025_4_10 16：22：18).html"}}
 	- [Snapshot](https://ehjournal.biomedcentral.com/articles/10.1186/s12940-018-0360-7) {{zotero-imported-file MFH75A8L, "s12940-018-0360-7.html"}}
 	- [Full Text PDF](https://ehjournal.biomedcentral.com/counter/pdf/10.1186/s12940-018-0360-7) {{zotero-imported-file SVLZSR6F, "_2018_Respiratory health effects of exposure to low levels of airborne endotoxin – a systematic review.pdf"}}
