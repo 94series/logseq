@@ -3,7 +3,7 @@ file-name:: Respiratoryhealtheffectsofexposuretolowlevelsofairborneendotoxin–a
 
 - 低水平空气传播内毒素（平均＜100 EU/m³）
   id:: 67fca7af-eff0-4c29-bdcf-08b4f9bc623a
-- 几项研究显示内毒素与症状和第一秒用力呼气量（FEV1）之间存在显著的暴露-反应关系，
+- 几项研究显示内毒素与症状和第一秒用力呼气量（FEV1）之间存在显著的暴露-反应关系
   id:: 67fca7ef-72d5-44cf-9199-595563aafeff
 - 雾化的内毒素被吸收到颗粒物表面，从而通过空气传播
   id:: 67fca8db-25c1-477f-9953-6b2b0990b533
