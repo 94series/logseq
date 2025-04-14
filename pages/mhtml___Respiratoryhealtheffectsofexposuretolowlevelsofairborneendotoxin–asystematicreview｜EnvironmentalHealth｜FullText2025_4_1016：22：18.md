@@ -32,3 +32,9 @@ file-name:: Respiratoryhealtheffectsofexposuretolowlevelsofairborneendotoxin–a
 			- personal sampling techniques
 			- area sampling
 			- predictive calculations
+	- 指标
+		- 肺功能测量指标
+			- 第一秒用力呼气量（FEV1）
+			- 用力肺活量（FVC）
+		- 症状
+			- 问卷调查
