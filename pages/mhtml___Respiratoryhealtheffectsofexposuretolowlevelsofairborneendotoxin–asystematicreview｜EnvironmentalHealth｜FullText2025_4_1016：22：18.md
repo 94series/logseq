@@ -25,7 +25,15 @@ file-name:: Respiratoryhealtheffectsofexposuretolowlevelsofairborneendotoxin–a
 	- 当至少 75%的研究在同一方向上显示出具有统计学意义的结果（根据 p < 0.05 定义）时，结果是一致的
 	- 只有那些研究内毒素暴露与结果变量之间暴露-反应关系的文章才被纳入最佳证据综合
 	  id:: 67fcaf97-de71-4fda-9b1f-ec11e51c272a
-- 筛选方式
+- 暴露的定义各不相同，从仅内毒素暴露（测量）到暴露于各种生物气溶胶 #暴露 
+  {{renderer :ib}}
+  ib-multiplier:: 1.3
+  ib-reps:: 0
+  ib-a:: 98.99999999999991
+  ib-b:: 1
+  ib-due:: 1744702543161
+  ib-interval:: 1
+-
 	- 暴露水平＜100 EU/m³
 	- 内毒素水平测量技术
 		- 灰尘采样
@@ -38,3 +46,4 @@ file-name:: Respiratoryhealtheffectsofexposuretolowlevelsofairborneendotoxin–a
 			- 用力肺活量（FVC）
 		- 症状
 			- 问卷调查
+			- 包括咳嗽、喘息、呼吸急促、胸闷和夜间哮喘症状
