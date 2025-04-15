@@ -67,13 +67,14 @@ links:: [Local library](zotero://select/library/items/MNBCVICE), [Web library](h
 	  id:: 67fcaf97-de71-4fda-9b1f-ec11e51c272a
 	- 总体而言，关于内毒素对 FEV1 下降的影响的证据被认为是微弱的，因为只有不到 75%的结果是显著的
 	  background-color:: yellow
-- 暴露的定义各不相同，从仅内毒素暴露（测量）到暴露于各种生物气溶胶 #暴露 
-  {{renderer :ib}}
-  ib-multiplier:: 1.3
-  ib-reps:: 0
-  ib-a:: 98.99999999999991
-  ib-b:: 1
-  ib-due:: 1744702543161
-  ib-interval:: 1
+- 暴露的定义各不相同，从仅内毒素暴露（测量）到暴露于各种生物气溶胶 #暴露
+	- 可以支持[[怎样找QMRA的剂量响应模型]]
+	- {{renderer :ib}}
+	  ib-multiplier:: 1.3
+	  ib-reps:: 0
+	  ib-a:: 98.99999999999991
+	  ib-b:: 1
+	  ib-due:: 1744702543161
+	  ib-interval:: 1
 - 有机粉尘与疾病之间关系的研究是一项持续的挑战，因为存在接触多种因素的固有方面，并且在观察性流行病学研究中难以证明因果关系。
 - 未来研究的另一个有趣主题是低水平内毒素暴露对特定脆弱亚组（如支气管阻塞患者或特应性患者）的影响，因为在这些群体中，呼吸系统的影响似乎与一般人群不同
