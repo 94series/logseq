@@ -1,67 +1,32 @@
 {:blocks (
-{:block/created-at 1749810277537
+{:block/created-at 1749823591567
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:blockType "P"
 :stroke ""
-:collapsed true
+:collapsed false
 :borderRadius 8
-:index 1
+:index 0
 :scale [1 1]
 :pageId "ai指令"
 :scaleLevel "md"
 :fill ""
 :compact false
-:isAutoResizing false
+:isAutoResizing true
 :type "logseq-portal"
-:size [400 40]
+:size [400 9995.928022484019]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
 :id "604de5b0-4840-11f0-bc1b-07deb30109de"
 :noFill false
 :isLocked false
-:point [120 400]
+:point [168 424]
 :parentId "684bfbf3-1b4d-4a8c-9b7f-8dc103e0b02a"
 :collapsedHeight 9976.572265625
-:nonce 1749810178067}}
-:block/updated-at 1749810277537} 
-{:block/created-at 1749810277595
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 0
-:scale [1 1]
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "604de5b1-4840-11f0-bc1b-07deb30109de"
-:fontWeight 400
-:noFill true
-:point [248 444]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 5043.29]
-:bindingId "604de5b2-4840-11f0-bc1b-07deb30109de"}
-:end 
-{:id "end"
-:canBind true
-:point [71.66 0]
-:bindingId "604de5b3-4840-11f0-bc1b-07deb30109de"}}
-:decorations 
-{:end "arrow"}
-:parentId "684bfbf3-1b4d-4a8c-9b7f-8dc103e0b02a"
-:nonce 1749810177967
-:italic false}}
-:block/updated-at 1749810277595})
+:nonce 1749810178367}}
+:block/updated-at 1749823591567})
 :pages (
 {:block/uuid #uuid "684bfbf3-1b4d-4a8c-9b7f-8dc103e0b02a"
 :block/properties 
@@ -70,18 +35,11 @@
 {:id "684bfbf3-1b4d-4a8c-9b7f-8dc103e0b02a"
 :name "684bfbf3-1b4d-4a8c-9b7f-8dc103e0b02a"
 :bindings 
-{:604de5b3-4840-11f0-bc1b-07deb30109de 
-{:id "604de5b3-4840-11f0-bc1b-07deb30109de"
-:type "line"
-:fromId "604de5b1-4840-11f0-bc1b-07deb30109de"
-:toId "604de5b0-4840-11f0-bc1b-07deb30109de"
-:handleId "end"
-:point [0.5 0.5]
-:distance 4}}
+{}
 :nonce 1
 :assets []
-:shapes-index ("604de5b1-4840-11f0-bc1b-07deb30109de" "604de5b0-4840-11f0-bc1b-07deb30109de")}}
-:block/updated-at 1749810277607
+:shapes-index ("604de5b0-4840-11f0-bc1b-07deb30109de")}}
+:block/updated-at 1749823591567
 :block/created-at 1749810163891
 :block/type "whiteboard"
 :block/name "684bfbf3-1b4d-4a8c-9b7f-8dc103e0b02a"
