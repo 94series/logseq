@@ -35,7 +35,7 @@
 :block/parent 
 {:block/uuid #uuid "684bfbf3-1b4d-4a8c-9b7f-8dc103e0b02a"}
 :block/uuid #uuid "684c3248-b72b-4761-88fe-8f6b50a3d81e"} 
-{:block/created-at 1749824111155
+{:block/created-at 1749824191989
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -49,7 +49,7 @@
 :scaleLevel "md"
 :fill ""
 :compact true
-:isAutoResizing true
+:isAutoResizing false
 :type "logseq-portal"
 :size [400 40.66666822808776]
 :strokeType "line"
@@ -60,8 +60,8 @@
 :point [1312 480]
 :parentId "684bfbf3-1b4d-4a8c-9b7f-8dc103e0b02a"
 :collapsedHeight 0
-:nonce 1749824068170}}
-:block/updated-at 1749824111155} 
+:nonce 1749824068171}}
+:block/updated-at 1749824191989} 
 {:block/content "证据论证"
 :block/format :markdown
 :block/left 
@@ -69,7 +69,7 @@
 :block/parent 
 {:block/uuid #uuid "684bfbf3-1b4d-4a8c-9b7f-8dc103e0b02a"}
 :block/uuid #uuid "684c325d-400f-4fa2-b6c5-76f141f0a157"} 
-{:block/created-at 1749824093651
+{:block/created-at 1749824188535
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -83,7 +83,7 @@
 :scaleLevel "md"
 :fill ""
 :compact true
-:isAutoResizing true
+:isAutoResizing false
 :type "logseq-portal"
 :size [400 40.66666822808776]
 :strokeType "line"
@@ -94,8 +94,8 @@
 :point [1784 480]
 :parentId "684bfbf3-1b4d-4a8c-9b7f-8dc103e0b02a"
 :collapsedHeight 0
-:nonce 1749824082384}}
-:block/updated-at 1749824093651} 
+:nonce 1749824082385}}
+:block/updated-at 1749824188535} 
 {:block/content "大纲"
 :block/format :markdown
 :block/left 
@@ -103,7 +103,7 @@
 :block/parent 
 {:block/uuid #uuid "684bfbf3-1b4d-4a8c-9b7f-8dc103e0b02a"}
 :block/uuid #uuid "684c3269-4e91-4d23-b1e4-7ef1ad68e4dd"} 
-{:block/created-at 1749824105125
+{:block/created-at 1749824197075
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -116,10 +116,10 @@
 :pageId "684c3269-4e91-4d23-b1e4-7ef1ad68e4dd"
 :scaleLevel "md"
 :fill ""
-:compact true
+:compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 40.66666822808776]
+:size [400 165.3333062668428]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -128,8 +128,8 @@
 :point [2240 488]
 :parentId "684bfbf3-1b4d-4a8c-9b7f-8dc103e0b02a"
 :collapsedHeight 0
-:nonce 1749824095608}}
-:block/updated-at 1749824105125} 
+:nonce 1749824095623}}
+:block/updated-at 1749824197075} 
 {:block/created-at 1749824115899
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -166,7 +166,8 @@
 :nonce 1749824113032
 :italic false}}
 :block/updated-at 1749824115899} 
-{:block/properties 
+{:block/created-at 1749824197086
+:block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
@@ -182,7 +183,7 @@
 :id "d3cd41f2-4860-11f0-b870-e58baf881aeb"
 :fontWeight 400
 :noFill true
-:point [2185 506.73]
+:point [2090.4 521.67]
 :fontSize 20
 :handles 
 {:start 
@@ -193,14 +194,23 @@
 :end 
 {:id "end"
 :canBind true
-:point [51 1.63]
+:point [145.6 29.19]
 :bindingId "d3cd41f1-4860-11f0-b870-e58baf881aeb"}}
 :decorations 
 {:end "arrow"}
 :parentId "684bfbf3-1b4d-4a8c-9b7f-8dc103e0b02a"
-:nonce 1749824115616
+:nonce 1749824115627
 :italic false}}
-:block/updated-at 1749824115899})
+:block/updated-at 1749824197086} 
+{:block/content "请从[清晰度、逻辑流程、完整性、潜在缺陷]等方面对其进行批判性评估"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "684c3269-4e91-4d23-b1e4-7ef1ad68e4dd"}
+:block/parent 
+{:block/uuid #uuid "684c3269-4e91-4d23-b1e4-7ef1ad68e4dd"}
+:block/properties 
+{}
+:block/uuid #uuid "684c32c3-9f73-4d92-8701-703f185683ef"})
 :pages (
 {:block/uuid #uuid "684bfbf3-1b4d-4a8c-9b7f-8dc103e0b02a"
 :block/properties 
@@ -244,7 +254,7 @@
 :nonce 1
 :assets []
 :shapes-index ("604de5b0-4840-11f0-bc1b-07deb30109de" "b77abd20-4860-11f0-b870-e58baf881aeb" "c000bee0-4860-11f0-b870-e58baf881aeb" "c7e29160-4860-11f0-b870-e58baf881aeb" "d242d162-4860-11f0-b870-e58baf881aeb" "d3cd41f2-4860-11f0-b870-e58baf881aeb")}}
-:block/updated-at 1749824115899
+:block/updated-at 1749824200445
 :block/created-at 1749810163891
 :block/type "whiteboard"
 :block/name "684bfbf3-1b4d-4a8c-9b7f-8dc103e0b02a"
