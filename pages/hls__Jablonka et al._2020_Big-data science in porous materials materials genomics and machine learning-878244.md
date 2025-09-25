@@ -1,0 +1,2 @@
+file:: [Jablonka et al._2020_Big-data science in porous materials materials genomics and machine learning-878244.pdf](file://D:\MyZoteroAttachments/研究生/资源/浙大/人工智能/Jablonka et al._2020_Big-data science in porous materials materials genomics and machine learning-878244.pdf)
+file-path:: file://D:\MyZoteroAttachments/研究生/资源/浙大/人工智能/Jablonka et al._2020_Big-data science in porous materials materials genomics and machine learning-878244.pdf
